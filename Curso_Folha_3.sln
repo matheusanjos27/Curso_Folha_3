@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensoesApp", "ExtensoesApp\ExtensoesApp.csproj", "{1735DC39-E617-4390-AFBF-E8D42F6A70E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndiceRemissivoApp", "IndiceRemissivoApp\IndiceRemissivoApp.csproj", "{DA4F4E6E-AAAB-4E68-9721-7F0ABEC2DC1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1735DC39-E617-4390-AFBF-E8D42F6A70E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1735DC39-E617-4390-AFBF-E8D42F6A70E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1735DC39-E617-4390-AFBF-E8D42F6A70E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1735DC39-E617-4390-AFBF-E8D42F6A70E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4F4E6E-AAAB-4E68-9721-7F0ABEC2DC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4F4E6E-AAAB-4E68-9721-7F0ABEC2DC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4F4E6E-AAAB-4E68-9721-7F0ABEC2DC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4F4E6E-AAAB-4E68-9721-7F0ABEC2DC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D040D12D-0B61-4F3E-93B9-7ACECAD1D29A}
+	EndGlobalSection
+EndGlobal

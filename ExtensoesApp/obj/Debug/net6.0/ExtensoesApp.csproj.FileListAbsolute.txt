@@ -1,0 +1,15 @@
+C:\Projetos\Curso_Folha3\ExtensoesApp\bin\Debug\net6.0\ExtensoesApp.exe
+C:\Projetos\Curso_Folha3\ExtensoesApp\bin\Debug\net6.0\ExtensoesApp.deps.json
+C:\Projetos\Curso_Folha3\ExtensoesApp\bin\Debug\net6.0\ExtensoesApp.runtimeconfig.json
+C:\Projetos\Curso_Folha3\ExtensoesApp\bin\Debug\net6.0\ExtensoesApp.dll
+C:\Projetos\Curso_Folha3\ExtensoesApp\bin\Debug\net6.0\ExtensoesApp.pdb
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.csproj.AssemblyReference.cache
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.AssemblyInfoInputs.cache
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.AssemblyInfo.cs
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.dll
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\refint\ExtensoesApp.dll
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.pdb
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ExtensoesApp.genruntimeconfig.cache
+C:\Projetos\Curso_Folha3\ExtensoesApp\obj\Debug\net6.0\ref\ExtensoesApp.dll

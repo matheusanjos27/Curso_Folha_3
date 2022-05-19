@@ -1,0 +1,15 @@
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\bin\Debug\net6.0\RemoveRepetidosApp.exe
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\bin\Debug\net6.0\RemoveRepetidosApp.deps.json
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\bin\Debug\net6.0\RemoveRepetidosApp.runtimeconfig.json
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\bin\Debug\net6.0\RemoveRepetidosApp.dll
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\bin\Debug\net6.0\RemoveRepetidosApp.pdb
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.csproj.AssemblyReference.cache
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.AssemblyInfoInputs.cache
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.AssemblyInfo.cs
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.dll
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\refint\RemoveRepetidosApp.dll
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.pdb
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\RemoveRepetidosApp.genruntimeconfig.cache
+C:\Projetos\Curso_Folha3\RemoveRepetidos\RemoveRepetidos\obj\Debug\net6.0\ref\RemoveRepetidosApp.dll

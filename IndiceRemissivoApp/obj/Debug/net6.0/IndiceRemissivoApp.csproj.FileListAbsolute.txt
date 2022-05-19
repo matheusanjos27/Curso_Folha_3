@@ -1,0 +1,15 @@
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\bin\Debug\net6.0\IndiceRemissivoApp.exe
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\bin\Debug\net6.0\IndiceRemissivoApp.deps.json
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\bin\Debug\net6.0\IndiceRemissivoApp.runtimeconfig.json
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\bin\Debug\net6.0\IndiceRemissivoApp.dll
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\bin\Debug\net6.0\IndiceRemissivoApp.pdb
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.csproj.AssemblyReference.cache
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.AssemblyInfoInputs.cache
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.AssemblyInfo.cs
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.dll
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\refint\IndiceRemissivoApp.dll
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.pdb
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\IndiceRemissivoApp.genruntimeconfig.cache
+C:\Projetos\Curso_Folha3\IndiceRemissivoApp\obj\Debug\net6.0\ref\IndiceRemissivoApp.dll
